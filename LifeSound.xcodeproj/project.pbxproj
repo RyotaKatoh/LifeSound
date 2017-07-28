@@ -251,7 +251,7 @@
 				TargetAttributes = {
 					C1D22C521F28E3890097751D = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 7SQ9Q56L3N;
+						DevelopmentTeam = 83QP6Q39EC;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.HealthKit = {
@@ -619,10 +619,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = LifeSound/LifeSound.entitlements;
-				DEVELOPMENT_TEAM = 7SQ9Q56L3N;
+				DEVELOPMENT_TEAM = 83QP6Q39EC;
 				INFOPLIST_FILE = LifeSound/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ryotakatoh.LifeSound;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ryotakatoh.LifeSound;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -634,10 +634,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = LifeSound/LifeSound.entitlements;
-				DEVELOPMENT_TEAM = 7SQ9Q56L3N;
+				DEVELOPMENT_TEAM = 83QP6Q39EC;
 				INFOPLIST_FILE = LifeSound/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ryotakatoh.LifeSound;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ryotakatoh.LifeSound;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
